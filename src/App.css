@@ -11,6 +11,10 @@
 }
 
 .App-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
   background-color: white;
   width: 80%;
   height: 100%;
